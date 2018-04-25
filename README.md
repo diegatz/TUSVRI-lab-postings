@@ -1,7 +1,7 @@
-+<html>
+
 <header><title>TUSVRI Temporary Site</title></header>
 <body>
-This simplistic site is temporary while we work on the main one.<br /><br />
+
 Lab 1  
 <br />
 Here’s some brief information about the position: 
@@ -96,4 +96,3 @@ TUSVRI Executive Board
 
 
 </body>
-</html>
